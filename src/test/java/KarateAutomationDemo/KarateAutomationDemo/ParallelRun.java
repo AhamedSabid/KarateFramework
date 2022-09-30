@@ -12,10 +12,12 @@ import io.cucumber.testng.CucumberOptions;
 		features = { "src/test/java/KarateAutomationDemo/KarateAutomationDemo" }
                  )
 
-public class ParallelRun extends AbstractTestNGCucumberTests {
+public class ParallelRun {
+	/*extends AbstractTestNGCucumberTests {
 	@Override
 	@DataProvider(parallel = true)
 	public Object[][] scenarios() {
 		return super.scenarios();
 	}
+	*/
 }
