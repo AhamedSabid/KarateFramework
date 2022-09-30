@@ -9,7 +9,7 @@ import com.intuit.karate.junit4.Karate;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
-@RunWith(Karate.class)
+@RunWith(Cucumber.class)
 @CucumberOptions(
 
  plugin = {"html:Reports/cucumber-html-report.html"}, monochrome = true,
