@@ -2,19 +2,19 @@
 <testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-30T17:08:35 IST" name="Default suite" finished-at="2022-09-30T17:08:36 IST" duration-ms="1060">
+  <suite started-at="2022-09-30T18:16:12 IST" name="Default suite" finished-at="2022-09-30T18:16:13 IST" duration-ms="1086">
     <groups>
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.ParallelRun@5c671d7f]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:KarateAutomationDemo.KarateAutomationDemo.ParallelRun@63070bab]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2022-09-30T17:08:35 IST" name="Default test" finished-at="2022-09-30T17:08:36 IST" duration-ms="1060">
-      <class name="TestRunner.ParallelRun">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:TestRunner.ParallelRun@5c671d7f]" started-at="2022-09-30T17:08:35 IST" name="setUpClass" finished-at="2022-09-30T17:08:36 IST" duration-ms="972" status="FAIL">
+    <test started-at="2022-09-30T18:16:12 IST" name="Default test" finished-at="2022-09-30T18:16:13 IST" duration-ms="1086">
+      <class name="KarateAutomationDemo.KarateAutomationDemo.ParallelRun">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:KarateAutomationDemo.KarateAutomationDemo.ParallelRun@63070bab]" started-at="2022-09-30T18:16:12 IST" name="setUpClass" finished-at="2022-09-30T18:16:13 IST" duration-ms="1004" status="FAIL">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@6c25e6c4]]>
+                <![CDATA[org.testng.TestRunner@32c8e539]]>
               </value>
             </param>
           </params>
@@ -66,11 +66,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:TestRunner.ParallelRun@5c671d7f]" started-at="2022-09-30T17:08:36 IST" name="tearDownClass" finished-at="2022-09-30T17:08:36 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:KarateAutomationDemo.KarateAutomationDemo.ParallelRun@63070bab]" started-at="2022-09-30T18:16:13 IST" name="tearDownClass" finished-at="2022-09-30T18:16:13 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
-      </class> <!-- TestRunner.ParallelRun -->
+      </class> <!-- KarateAutomationDemo.KarateAutomationDemo.ParallelRun -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

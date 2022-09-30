@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: KarateAutomationDemo.KarateAutomationDemo.ParallelRun
 -------------------------------------------------------------------------------
-Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 40.542 s - in KarateAutomationDemo.KarateAutomationDemo.ParallelRun
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 41.561 s - in KarateAutomationDemo.KarateAutomationDemo.ParallelRun
