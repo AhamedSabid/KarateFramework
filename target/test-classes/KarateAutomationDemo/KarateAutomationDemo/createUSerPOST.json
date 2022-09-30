@@ -1,0 +1,12 @@
+{
+  "name" :"Ahamed",
+  "gender" : "male",
+  "dob" : "01-01-1990",
+  "email" : "",
+  "phone" : "1234567890",
+  "website" : "hhtps://google.com",
+  "address" : "test address",
+  "status" : "active"
+
+
+}
