@@ -11,10 +11,10 @@ import io.cucumber.testng.CucumberOptions;
 
 @RunWith(Karate.class)
 @CucumberOptions(
-/*
- * plugin = {"html:Reports/cucumber-html-report.html"}, monochrome = true,
- * features = { "src/test/java/KarateAutomationDemo/KarateAutomationDemo" }
- */
+
+ plugin = {"html:Reports/cucumber-html-report.html"}, monochrome = true,
+ features = { "src/test/java/KarateAutomationDemo/KarateAutomationDemo" }
+ 
 )
 
 public class ParallelRun {
